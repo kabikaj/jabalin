@@ -1,0 +1,6 @@
+(c) 2012 Susana López Hervás, Alicia González Martínez, Antonio Moreno Sandoval
+
+Note:
+      Susana López Hervás implemented the program
+      Alicia González Martínez designed the linguistic model
+      Antonio Moreno Sandoval supervised the project
